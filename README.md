@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a little bit awkward but you've caught me getting ready. Check back in a couple of weeks and I'll have some work up. 
+
 <!--
 **b-a-morgan/b-a-morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
